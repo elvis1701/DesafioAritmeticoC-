@@ -1,0 +1,15 @@
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.exe
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.deps.json
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.runtimeconfig.json
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.runtimeconfig.dev.json
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.dll
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ref\DesafioAritmetico.dll
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\DesafioAritmetico.pdb
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.AssemblyInfoInputs.cache
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.AssemblyInfo.cs
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.csproj.CoreCompileInputs.cache
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.dll
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ref\DesafioAritmetico.dll
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.pdb
+C:\Users\elvis\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\DesafioAritmetico.genruntimeconfig.cache
